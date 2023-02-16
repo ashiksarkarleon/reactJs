@@ -1,0 +1,7 @@
+#faCoffee{
+    color: blueviolet;
+    font-size: 150px;
+}
+:hover#faCoffee{
+    color: brown;
+}
